@@ -158,4 +158,4 @@ Skrip menulis `comments.xml`, `commentsExtended.xml`, `commentsIds.xml`, `commen
 
 ## Pemeliharaan skill
 
-Folder master: `~/Documents/SKILL/docx-neuron`. Edit hanya di master, lalu salin ke Claude dengan `bash scripts/sync.sh`.
+Folder master: `~/Documents/Neuron/ai-agent/docx-neuron` (repo `DimasPrasetio/docx-neuron`). Edit hanya di master, commit & push, lalu salin ke Claude dengan `bash scripts/sync.sh`.
